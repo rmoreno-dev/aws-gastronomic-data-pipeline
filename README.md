@@ -6,7 +6,7 @@
 ![AWS Athena](https://img.shields.io/badge/AWS-Athena-orange)
 ![Status](https://img.shields.io/badge/Status-Completado-green)
 
-## El problema a resolver
+## Planteamiento del problema
 
 Una cafetería "estilo japonesa" ubicada en Concepción, Chile;
 necesita centralizar sus datos operacionales del ERP en la nube para 
